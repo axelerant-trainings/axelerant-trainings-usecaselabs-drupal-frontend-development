@@ -1,0 +1,22 @@
+uuid: 90562d5f-e303-4df9-9f0f-4f15a84a3682
+langcode: en
+status: false
+dependencies:
+  module:
+    - system
+  theme:
+    - usecaselabs
+_core:
+  default_config_hash: VhBzWb7lMRtIOg9G7VSw_0uopi-7zXeHq4vXqqV1HFE
+id: usecaselabs_breadcrumbs
+theme: usecaselabs
+region: primary_header
+weight: 2
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility: {  }

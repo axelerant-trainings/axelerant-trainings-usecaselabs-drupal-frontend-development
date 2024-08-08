@@ -2,7 +2,7 @@ _core:
   default_config_hash: ijfbzDTN4CbE7Sr-6ubWzy_t1vH4OtU1doNCLssVz-4
 langcode: en
 uuid: 3f750abb-5b4f-4964-9521-83b3a88cdcf1
-name: ps-drupal-site-building
+name: 'FE Use Case Labs'
 mail: admin@example.com
 slogan: ''
 page:

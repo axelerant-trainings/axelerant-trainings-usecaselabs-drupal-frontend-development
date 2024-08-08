@@ -1,0 +1,22 @@
+uuid: 6b8f1a6f-bbab-4959-8d1f-7634cd83cb3a
+langcode: en
+status: false
+dependencies:
+  module:
+    - help
+  theme:
+    - usecaselabs
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: usecaselabs_help
+theme: usecaselabs
+region: primary_header
+weight: 3
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }
